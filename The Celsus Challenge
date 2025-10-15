@@ -24,9 +24,9 @@ Constraints: Your solution should be decentralized, with drones making decisions
 
 The Rewards 
 
-1.  **The Prize:** The top submission in each track will receive a **$10,000 cash prize**.
-2.  **The Conversation:** The top 5 submissions in each track are **guaranteed** a one-on-one deep-dive call with our founder to discuss your approach and the future of autonomous defense.
-3.  **The Ultimate Opportunity:** For the best of the best, this is your audition to become a **founding pillar of Caelus Industries**. This isn't a job; it's a ground-floor opportunity to build something of consequence, with a significant equity stake to match.
+1.  The Prize: The top submission in each track will receive a $10,000 cash prize.
+2.  The Conversation: The top 5 submissions in each track are guaranteed a one-on-one deep-dive call with our founder to discuss your approach and the future of autonomous defense.
+3.  The Ultimate Opportunity: For the best of the best, this is your audition to become a **founding pillar of Caelus Industries**. This isn't a job; it's a ground-floor opportunity to build something of consequence, with a significant equity stake to match.
 
 How to Participate
 
@@ -47,7 +47,7 @@ Email a link to your private repo to `Hello@caelusindustries.com` with the subje
 Evaluation Criteria
 
 Submissions will be judged on:
-Success Rate & Performance:** How effectively and efficiently does your solution complete the objective?
+Success Rate & Performance: How effectively and efficiently does your solution complete the objective?
 Robustness: How well does your solution handle edge cases and non-ideal conditions?
 Code Quality & Clarity: Is your code clean, well-documented, and well-structured?
 Elegance of Approach: The creativity and ingenuity of your solution, as explained in your write-up.
