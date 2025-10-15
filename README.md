@@ -27,9 +27,13 @@ Constraints: Your solution should be decentralized, with drones making decisions
 
 The Rewards 
 
-1.  The Prize: The top submission in each track will receive a $10,000 cash prize.
-2.  The Conversation: The top 5 submissions in each track are guaranteed a one-on-one deep-dive call with our founder to discuss your approach and the future of autonomous defense.
-3.  The Ultimate Opportunity: For the best of the best, this is your audition to become a **founding pillar of Caelus Industries**. This isn't a job; it's a ground-floor opportunity to build something of consequence, with a significant equity stake to match.
+This isn't a competition for a cash prize. The stakes are much higher than that.
+
+The Conversation: The top 5 submissions in each track are guaranteed a one-on-one deep-dive call with me. We’ll discuss your approach, the future of autonomous defense, and where you see this technology going.
+
+The Ultimate Opportunity: For the best of the best, this challenge is your path to becoming a founding pillar of Celsus Industries. This isn't a job offer; it's an invitation to take a seat at the table. The reward is a co-founding level equity stake and the chance to build something of true consequence from the ground up—a company that will be foundational to the security of our future.
+
+We aren't offering a prize. We're offering a mission.
 
 How to Participate
 
