@@ -5,10 +5,10 @@ Welcome. We're not looking for resumes; we're looking for titans.
 
 Inspired by Alan Turing's approach to finding the brilliant, unconventional minds needed to break Enigma, this challenge is an open audition to find the founding engineers for Caelus Industries. We believe the toughest problems are the only ones worth solving, and this challenge is a microcosm of one of the hardest robotics problems in the world today.
 
-The Mission 
+The Mission: 
 At Celsus Industries, we're on a mission to democratize maritime defense. In a world where naval power often dictates national sovereignty, we are the David in a world of Goliaths, building the slingshot for nations that refuse to be outsmarted.
 
-The Challenge 
+The Challenge: 
 This repository contains a lightweight simulation environment featuring a simplified hybrid vehicle with physics for two distinct mediums: "air" and "water." Your mission is to solve one of the two challenges below.
 
 Track 1: The Robotics Engineer (The "Breach & Entry" Problem)
@@ -25,7 +25,7 @@ Objective: In a multi-agent environment, write the mission logic for a two-drone
 Tests: Your ability to think in terms of AI, swarm logic, pathfinding, and autonomous strategy.
 Constraints: Your solution should be decentralized, with drones making decisions based on their own limited sensor range.
 
-The Rewards 
+The Rewards: 
 
 This isn't a competition for a cash prize. The stakes are much higher than that.
 
@@ -35,7 +35,7 @@ The Ultimate Opportunity: For the best of the best, this challenge is your path 
 
 We aren't offering a prize. We're offering a mission.
 
-How to Participate
+How to Participate:
 
 1.  Fork this repository.
 2.  Review the `docs` folder for detailed specifications on the simulation environment and rules.
@@ -43,7 +43,7 @@ How to Participate
 4.  Code your solution.
 5.  Submit your entry before the deadline.
 
-Submission Guidelines
+Submission Guidelines:
 
 To submit, please create a new private repository containing:
 All of your source code.
@@ -51,7 +51,7 @@ A brief but comprehensive `writeup.md` file explaining your approach, the trade-
 Add user `Caelus-Challenge-Admin` as a collaborator.
 Email a link to your private repo to `Hello@caelusindustries.com` with the subject line "Celsus Challenge Submission: [Track Name] - [Your Name]".
 
-Evaluation Criteria
+Evaluation Criteria:
 
 Submissions will be judged on:
 Success Rate & Performance: How effectively and efficiently does your solution complete the objective?
@@ -59,7 +59,7 @@ Robustness: How well does your solution handle edge cases and non-ideal conditio
 Code Quality & Clarity: Is your code clean, well-documented, and well-structured?
 Elegance of Approach: The creativity and ingenuity of your solution, as explained in your write-up.
 
-Deadline
+Deadline:
 
 All submissions are due by 11:59 PM PT on November 5th, 2025.
 
